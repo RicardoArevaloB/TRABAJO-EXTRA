@@ -1,0 +1,247 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: black;
+}
+
+
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 50px;
+    background-color: rgb(26, 24, 24);
+}
+
+.logo{
+    margin-left: 400px;
+    color: white;
+}
+
+.nave{
+    margin-right: 400px;
+}
+
+.nave a{
+    text-decoration: none;
+    color: white;
+    margin-left: 50px;
+}
+
+a{ 
+    text-decoration: none;
+    color: black;
+}
+
+a:hover{
+    color: rgb(238, 180, 103);
+}
+
+.section1{
+    height: 800px;
+    display: flex;
+    justify-content: center;
+}
+.section1 div{
+    margin-top: 30px;
+    color: white;
+    text-align: center;
+    font-size: 40px;
+}
+
+
+
+.section1 img{
+    margin-top: 70px;
+    margin-bottom: 70px;
+    height: 300px;
+    width: auto;
+}
+
+
+
+button{
+    height: 35px;
+    width: 110px;
+    border-radius: 3px;
+    background-color: rgb(213, 165, 54);
+    color: black;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color: bisque;
+}
+
+.section2{
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.section2 img{
+ position: relative;
+ margin-left: -100px;
+}
+
+.head{
+    display: flex;
+    align-items: center;
+}
+
+.head div{
+    height: 1px;
+    width: 85px;
+    margin-right: 20px;
+    border: solid 1px white;
+}
+
+.head h1 {
+    font-size: 60px;
+    color: white;
+}
+
+.oust{
+    padding-left: 105px;
+}
+
+.contens2{
+    padding-left: 105px;
+}
+
+.oust{
+    width: 680px;
+}
+.oust p{
+    color: white;
+}
+
+.section3{
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.section3 img{
+    height: 400px;
+    margin-left: 300px;
+}
+.container{
+    color: white;
+}
+.container h1{
+    font-size: 40px;
+}
+.section4 h1 {
+    padding-left: 40px;
+    color: white;
+    font-size: 70px;
+    margin-bottom: 50px;
+}
+
+.tablas{
+    font-family: sans-serif;
+    font-size: 18px;
+    color: white;
+    padding: 100px;
+    height: 600px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+.tab{
+    border: solid rgb(237, 188, 97) ;
+    border-radius: 2%;
+    height: 410px;
+    width: 310px;
+}
+
+.tab img{
+    margin-top: -50px;
+    margin-left: 100px;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+}
+
+.ti{
+    
+    text-align: center;
+    width: 310px;
+}
+
+.lista{
+    margin-left: 100px;
+    text-align: justify;
+    width: 200px;
+}
+
+.boton{
+    text-align: center;
+    width: 310px;
+}
+
+.line4{
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    height: 3px;
+}
+
+.line4 div{
+    height: 1.5px;
+    background-color: rgb(237, 188, 97);
+    width: 600px;
+}
+
+.section5{
+    font-family: sans-serif;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+}
+
+.section5 h2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+.section5 .color{
+    margin-left: 5px;
+    color: rgb(237, 188, 97) ;
+}
+ .section5 p{
+    color: white;
+ }
+
+.section5 .con{
+    text-align: center;
+    margin-left: 100px;
+}
+
+footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(26, 24, 24);
+    color: white;
+    height: 50px;
+}
+
+footer p{
+    margin-left: 5px;
+    color: rgb(247, 200, 144);
+}
