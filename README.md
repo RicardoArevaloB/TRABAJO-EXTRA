@@ -21,5 +21,6 @@ Hecho por [Ricardo Arevalo Boorquez](https://github.com/RicardoArevaloB)
 
 
 >[!IMPORTANT]
->Este proyecto no es totalmente funcinal es solu una maquetacion de una idea de pagina web, que si podria hacerse funcional
+>Este proyecto es solo con fines educativos. 
+>Por lo cual este proyecto no es totalmente funcinal es solo una idea de pagina web, que si podria hacerse funcional
 
